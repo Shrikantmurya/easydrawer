@@ -120,7 +120,7 @@
       home: Scaffold(
        
          drawer: Drawer(
-          child: CommonDrawer(draweList: admindrawerMenus,  text: 'Lorem Ipsum', imgUrl: 'assets/images/dummyprofile.png', color:AppColor.darkBlueColor, colIcn: Icons.add, expIcn: Icons.minimize_outlined)
+          child: CommonDrawer(draweList: admindrawerMenus,  text: 'Lorem Ipsum', imgUrl: 'assets/images/dummyprofile.png', color:Colors.blueAccent, colIcn: Icons.add, expIcn: Icons.minimize_outlined)
         ),
         body: Text('Eassy Drawer'),
       ),
