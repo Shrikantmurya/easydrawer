@@ -1,6 +1,6 @@
 # Easy Drawer
 
-```
+```dart
   @override
   Widget build(BuildContext context) {
      List admindrawerMenus = [
